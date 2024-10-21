@@ -1,4 +1,4 @@
-# Guarda su Youtube
+# Guarda su YouTube
 
 [![COME CREARE UN'APP CON L'AI 🦦 SENZA PROGRAMMARE 🤓 CORSO GRATIS](https://github.com/user-attachments/assets/410b11c2-c902-4235-8c95-f7620713ae12)](https://youtu.be/T1SXV0janxM)
 
